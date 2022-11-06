@@ -1,4 +1,4 @@
-Hi, I am Piotr Balwierz
+Hi, I am Piotr Balwierz.
 I am a genomicist and I work on gene expression regulation.
 
 <!---
